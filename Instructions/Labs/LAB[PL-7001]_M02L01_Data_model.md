@@ -29,7 +29,7 @@ lab:
 
 ### タスク 1.1 - Booking Request テーブルを作成する
 
-1. Power Apps Maker ポータル <https://make.powerapps.com> に移動します。
+1. Power Apps 作成者ポータル (`https://make.powerapps.com`) に移動します
 
 1. **Dev One** 環境にいることを確認します。
 
@@ -39,7 +39,7 @@ lab:
 
     ![新しい Dataverse テーブルの作成のスクリーンショット。](../media/create-new-table-dataverse.png)
 
-1. [新しいテーブル] の横にある**鉛筆**アイコンを選びます
+1. **[新しいテーブル]** の横にある **[テーブル プロパティの編集]** 鉛筆アイコンを選択します。
 
     ![新しいテーブル名のスクリーンショット。](../media/table-name.png)
 
@@ -145,7 +145,7 @@ lab:
 
 ### タスク 2.1 - 検索列を作成する
 
-1. Power Apps Maker ポータル <https://make.powerapps.com> に移動します。
+1. Power Apps 作成者ポータル (`https://make.powerapps.com`) に移動します
 
 1. **Dev One** 環境にいることを確認します。
 
@@ -209,3 +209,4 @@ lab:
    1. 決めること:**拒否済み**
 
 1. [データの編集] タブを閉じます。
+

@@ -108,9 +108,9 @@ lab:
 
 1. **[DetailScreen]** を展開します。
 
-1. **[ScreenContainer]** を展開ます。
+1. **[ScreenContainer1]** を展開します。
 
-1. **[MainContainer]** を選択します。
+1. **[MainContainer1]** を選択します。
 
 1. アプリの作成メニューで、**[挿入 (+)]** を選択します。
 
@@ -167,9 +167,9 @@ lab:
 
 1. **[DetailScreen]** を展開します。
 
-1. **[ScreenContainer]** を展開ます。
+1. **[ScreenContainer1]** を展開します。
 
-1. **[FooterContainer]** を選択します。
+1. **[FooterContainer1]** を選択します。
 
 1. フッター コンテナー内で **+** を選択します。
 
@@ -189,9 +189,9 @@ lab:
 
 1. **[DetailScreen]** を展開します。
 
-1. **[ScreenContainer]** を展開ます。
+1. **[ScreenContainer1]** を展開します。
 
-1. **[FooterContainer]** を選択します。
+1. **[FooterContainer1]** を選択します。
 
 1. アプリの作成メニューで、**[挿入 (+)]** を選択します。
 
@@ -304,7 +304,7 @@ lab:
 
 1. **[BookingRequestForm]** を選択します。
 
-1. ボタンの **OnSuccess** プロパティを次の値に設定します。
+1. フォームの **OnSuccess** プロパティを次の値に設定します。
 
     ```powerappsfl
     Navigate(MainScreen, ScreenTransition.UnCover)

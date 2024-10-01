@@ -126,15 +126,22 @@ lab:
 
 1. 左側のナビゲーション メニューから **[アプリ]** タブを選びます。
 
-1. **[アプリをビルドしましょう。何をすべきでしょうか?]** に「`Track coffee machine repairs for customers and assign repairs to technicians`」と入力し、**[Go]** 矢印アイコンを選んで送信します。
+1. **[アプリをビルドしましょう。何をすべきでしょうか?]** に「`Assign coffee repairs to technicians per customer request`」と入力し、**[Go]** 矢印アイコンを選んで送信します。
 
     ![Copilot プロンプトのスクリーンショット。](../media/copilot-prompt.png)
 
+    Copilot は、アプリケーションをサポートするためのテーブル構造の構築を開始します。
+
+    > **重要:** 生成 AI を使用する場合、常に同じ正確な結果が得られるとは限りません。 自分のテーブルが別の学生用に作成されたテーブルと完全に一致しないということはあり得ます。 
+
+    > テーブル構造を確認するには、テーブルを選択し、**[データの表示]** ボタンをクリックします。 
 1. 表を確認する
 
     ![Copilot テーブルのスクリーンショット。](../media/copilot-table.png)
 
-1. **[アプリの作成]** を選びます
+1. テーブルが適切であれば、**[Save and open app]** ボタンを選択します。 
+
+1. 必要に応じて、**[Done working?]** 画面で、**[Don’t ask me again]** を選択し、**[Save and open app]** ボタンを選択します。 
 
 1. アプリが作成されるまで待ちます。
 

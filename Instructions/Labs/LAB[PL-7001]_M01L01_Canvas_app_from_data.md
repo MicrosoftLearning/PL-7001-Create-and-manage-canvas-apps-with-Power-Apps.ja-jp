@@ -29,7 +29,7 @@ lab:
 
 ### タスク 1.1 - Excel スプレッドシートをダウンロードする
 
-1. [CoffeeMachineData.xlsx](https://github.com/MicrosoftLearning/PL-7001-Create-and-manage-canvas-apps-with-Power-Apps/blob/master/Allfiles/Labs/CoffeeMachineData.xlsx) に移動します。
+1. Web ブラウザーで [CoffeeMachineData.xlsx](https://github.com/MicrosoftLearning/PL-7001-Create-and-manage-canvas-apps-with-Power-Apps/blob/master/Allfiles/Labs/CoffeeMachineData.xlsx) (`https://github.com/MicrosoftLearning/PL-7001-Create-and-manage-canvas-apps-with-Power-Apps/blob/master/Allfiles/Labs/CoffeeMachineData.xlsx`) に移動します。
 
 1. **[Raw]** ファイル ボタンを選び、Excel ブックをダウンロードします。
 

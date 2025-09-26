@@ -170,7 +170,7 @@ lab:
 
 1. **[BookingRequestList]** を展開します。
 
-1. **[NextArrow]** を選択します。
+1. **[NextArrow2]** を選択します。
 
 1. 数式バーで NextArrow の **OnSelect** プロパティを次の値に設定します。
 
@@ -209,11 +209,11 @@ lab:
 1. 数式バーでアイコンのプロパティを次のように設定します。
 
    1. X=`150`
-   1. Y=`40`
+   1. Y=`60`
    1. 高さ=`30`
    1. 幅=`30`
 
-    ![ギャラリーの編集のスクリーンショット。](../media/icon-added-gallery.png)
+    ![アイコンの編集のスクリーンショット。](../media/icon-added-gallery.png)
 
 1. アプリの作成メニューで、**[ツリー ビュー]** を選択します。
 
@@ -223,6 +223,39 @@ lab:
 
     ```powerappsfl
     Patch('Booking Requests', ThisItem, {Decision: 'Decision (Booking Requests)'.Declined})
+    ```
+
+### タスク 4.2 予約の要求を確認する
+
+1. アプリの作成メニューで、**[ツリー ビュー]** を選択します。
+
+1. **[BookingRequestList]** を選択します。
+
+1. ギャラリー コントロールの左上にある**鉛筆**アイコンを選択します。
+
+1. アプリの作成メニューで、**[挿入 (+)]** を選択します。
+
+1. **[Icons]** を展開します。
+
+1. **[追加]** を選択します。 アイコンがギャラリーの各行に追加されます。
+
+1. 数式バーでアイコンのプロパティを次のように設定します。
+
+   1. X=`150`
+   1. Y=`10`
+   1. 高さ=`30`
+   1. Width=`30`
+
+1. アプリの作成メニューで、**[ツリー ビュー]** を選択します。
+
+1. アイコンの名前を `AcceptIcon` に変更します。
+
+    ![アイコンの編集のスクリーンショット。](../media/icons-added-gallery.png)
+
+1. 数式バーの **AcceptIcon** の **OnSelect** プロパティを次の値に設定します。
+
+    ```powerappsfl
+    Patch(Bookings,Defaults(Bookings),{Title:"New Booking",'Pet Name':ThisItem.'Pet Name','Owner Name':ThisItem.'Owner Name', 'Start Date':ThisItem.'Start Date','End Date':ThisItem.'End Date'})
     ```
 
 ## 演習 5 – Office 365 ユーザー
@@ -236,7 +269,6 @@ lab:
 1. **Office 365 ユーザー**を選択します。
 
 1. **[接続]** を選択します。
-
 
 ### タスク 5.2 ユーザーの国を表示する
 
@@ -268,4 +300,3 @@ lab:
 1. Power Apps Studio の右上にある **[保存]** を選択します。
 
 1. コマンド バーの左上にある **[<- 戻る]** ボタン、**[終了]** の順に選択し、アプリを終了します。
-

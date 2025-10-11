@@ -67,7 +67,7 @@ lab:
 
 1. **[ツリー ビュー]** で、**[MainScreen]** の **[BookingRequestList]** を展開します。
 
-1. **[BookingRequestList]** の **[NextArrow]** を選択します。
+1. **[BookingRequestList]** の **[NextArrow2]** を選択します。
 
 1. 数式バーで NextArrow の **[OnSelect]** プロパティを次の値に設定します。
 
@@ -95,9 +95,9 @@ lab:
 
 1. **[DetailScreen]** を展開します。
 
-1. **[ScreenContainer]** を展開ます。
+1. **[ScreenContainer1]** を展開します。
 
-1. **[HeaderContainer]**、**[...]**、**[貼り付け]**、**[貼り付け**] の順に選択します。
+1. **[HeaderContainer1]** を選択し、コマンド (**[...]**) を選択し、**[貼り付け]** を選択します。
 
 1. アイコンの名前を `BackIconDetail` に変更します。
 
@@ -123,7 +123,7 @@ lab:
 
 1. FormViewer のプロパティで、**[データ ソース]** の **[予約要求]** を選択します。
 
-1. **[フィールド]** の横にある **[10 件選択済み]** を選択します。
+1. **[フィールド]** の横にある **[8 件選択済み]** を選択します。
 
     ![既定のフォーム フィールドのスクリーンショット。](../media/add-fields-default.png)
 
@@ -247,7 +247,6 @@ lab:
 
     ![構成済み予約要求フォームのスクリーンショット。](../media/bookingrequestform.png)
 
-
 ### タスク 3.2 - 送信ボタンを追加する
 
 1. アプリの作成メニューで、**[ツリー ビュー]** を選択します。
@@ -290,9 +289,9 @@ lab:
 
 1. **[DetailScreen]** を展開します。
 
-1. **[ScreenContainer]** を展開ます。
+1. **[ScreenContainer1]** を展開します。
 
-1. **[HeaderContainer]** を選択します。
+1. **[HeaderContainer1]** を選択します。
 
 1. アプリの作成メニューで、**[挿入 (+)]** を選択します。
 
@@ -343,4 +342,3 @@ lab:
 1. Power Apps Studio の右上にある **[保存]** を選択します。
 
 1. コマンド バーの左上にある **[<- 戻る]** ボタン、**[終了]** の順に選択し、アプリを終了します。
-

@@ -31,7 +31,7 @@ lab:
 
 1. Web ブラウザーで [CoffeeMachineData.xlsx](https://github.com/MicrosoftLearning/PL-7001-Create-and-manage-canvas-apps-with-Power-Apps/blob/master/Allfiles/Labs/CoffeeMachineData.xlsx) (`https://github.com/MicrosoftLearning/PL-7001-Create-and-manage-canvas-apps-with-Power-Apps/blob/master/Allfiles/Labs/CoffeeMachineData.xlsx`) に移動します。
 
-1. **[Raw]** ファイル ボタンを選び、Excel ブックをダウンロードします。
+1. ファイルの **[ダウンロード]** ボタンを選択して、Excel ブックをダウンロードします。
 
     ![GitHub の [Raw] ダウンロード アイコンのスクリーンショット。](../media/raw-download.png)
 
@@ -127,7 +127,7 @@ lab:
 
 1. Power Apps 作成者ポータル (`https://make.powerapps.com`) に移動します
 
-1. **Dev One** 環境にいることを確認します。
+1. **Dev One** 環境内にいることを確認します。
 
 1. 左側のメニューから **[+ 作成]** タブを選択します。
 

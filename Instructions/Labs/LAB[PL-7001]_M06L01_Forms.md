@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 6:フォーム'
   module: 'Module 6: Write data in a Power Apps canvas app'
+  description: このラボでは、フォームを使用してデータ ソースでレコードを作成し編集します。
+  duration: 45 minutes
+  level: 100
+  islab: true
 ---
 
 # 実習ラボ 6 - フォーム

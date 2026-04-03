@@ -2,6 +2,10 @@
 lab:
   title: '課題 3:キャンバス アプリケーションを作成する'
   module: 'Module 3: Customize a canvas app in Power Apps'
+  description: このラボでは、何もないところからキャンバス アプリを設計して構築し、データ ソースとギャラリーを追加します。
+  duration: 45 minutes
+  level: 100
+  islab: true
 ---
 
 # 演習ラボ 3 – キャンバス アプリを作成する

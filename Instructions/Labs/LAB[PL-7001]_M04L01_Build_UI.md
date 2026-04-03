@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 4:UI をビルドする'
   module: 'Module 4: How to build the UI in a canvas app in Power Apps'
+  description: このラボでは、アプリのコントロールの色を変更します。
+  duration: 10 minutes
+  level: 100
+  islab: true
 ---
 
 # 実習ラボ 4 – UI を構築する

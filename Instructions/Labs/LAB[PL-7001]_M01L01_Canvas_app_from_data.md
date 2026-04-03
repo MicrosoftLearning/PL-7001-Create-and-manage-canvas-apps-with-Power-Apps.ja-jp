@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 1:データからキャンバス アプリを作成する'
   module: 'Module 1: Get started with Power Apps canvas apps'
+  description: このラボでは、既存のデータ ソースからキャンバス アプリを設計し、ビルドします。
+  duration: 20 minutes
+  level: 100
+  islab: true
 ---
 
 # 実習ラボ 1 - データからキャンバス アプリを作成する

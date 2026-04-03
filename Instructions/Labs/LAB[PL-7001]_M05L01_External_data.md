@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 5:外部データ'
   module: 'Module 5: Work with external data in a Power Apps canvas app'
+  description: このラボでは、外部データ ソースを追加します。
+  duration: 30 minutes
+  level: 100
+  islab: true
 ---
 
 # 実習ラボ 5 – 外部データ

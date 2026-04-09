@@ -2,6 +2,10 @@
 lab:
   title: 'ラボ 7:キャンバス アプリを管理する'
   module: 'Module 7: Publish, share, and maintain a canvas app'
+  description: このラボでは、キャンバス アプリを管理します。
+  duration: 10 minutes
+  level: 100
+  islab: true
 ---
 
 # 演習ラボ 7 – キャンバス アプリを管理する
